@@ -10,7 +10,7 @@ This project is designed as a **QA portfolio piece** to demonstrate:
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 The app lets a user:
 
@@ -24,7 +24,7 @@ testing an app related to culture and stories.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Front-end:** React + Vite
 - **Language:** JavaScript
@@ -36,7 +36,7 @@ testing an app related to culture and stories.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 culturecheck-qa-project/
